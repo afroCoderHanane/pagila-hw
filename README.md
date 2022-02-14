@@ -1,6 +1,5 @@
 # pagila-hw
-[![](https://github.com/mikeizbicki/pagila-hw/workflows/tests/badge.svg)](https://github.com/mikeizbicki/pagila-hw/actions?query=workflow%3Atests)
-
+[![tests](https://github.com/afroCoderHanane/pagila-hw/actions/workflows/tests.yml/badge.svg)](https://github.com/afroCoderHanane/pagila-hw/actions/workflows/tests.yml)
 ## Background
 
 [Pagila](https://github.com/devrimgunduz/pagila) is a standard example database for postgresql.
